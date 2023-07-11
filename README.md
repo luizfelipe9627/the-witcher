@@ -6,6 +6,10 @@
 
 ## 📄 Descrição
 
+The Witcher 3: Wild Hunt é um jogo eletrônico de RPG de ação em mundo aberto desenvolvido pela CD Projekt RED e lançado no dia 19 de maio de 2015 para as plataformas Microsoft Windows, PlayStation 4, Xbox One e em outubro de 2019 para o Nintendo Switch, sendo o terceiro título da série de jogos The Witcher.
+
+## 📑 Observação
+
 Atividade passada pelo Vai na Web para práticar HTML5, CSS3 e principalmente Flexbox. Não está responsivo para dispositivos mobiles.
 
 ### <a href="https://luizfelipe9627-the-witcher-vnw.netlify.app">Acesse o site</a>
