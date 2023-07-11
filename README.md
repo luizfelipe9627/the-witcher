@@ -6,7 +6,7 @@
 
 ## 📄 Descrição
 
-Atividade passada pelo Vai na Web para práticar HTML5, CSS3 e principalmente Flexbox.
+Atividade passada pelo Vai na Web para práticar HTML5, CSS3 e principalmente Flexbox. Não está responsivo para dispositivos mobiles.
 
 ### <a href="https://luizfelipe9627-the-witcher-vnw.netlify.app">Acesse o site</a>
 
