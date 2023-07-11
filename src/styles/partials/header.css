@@ -1,7 +1,7 @@
 .header {
   display: flex;
   justify-content: space-between;
-  color: #FFF;
+  color: #fff;
   margin: 10px 50px;
 }
 
@@ -14,9 +14,10 @@
   font-size: 20px;
   font-weight: 400;
   letter-spacing: 0.6px;
-  color: #FFFFFF;
+  color: #ffffff;
   text-transform: uppercase;
   margin-left: 45px;
+  cursor: pointer;
 }
 
 .nav {
@@ -34,7 +35,11 @@
   font-weight: 400;
   letter-spacing: 0.6px;
   text-transform: uppercase;
-  color: #FFF;
+  color: #fff;
+}
+
+.nav-itens li a:hover {
+  color: #ccc;
 }
 
 .nav-itens li:not(:last-child) {
