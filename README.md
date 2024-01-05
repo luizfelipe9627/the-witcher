@@ -1,4 +1,4 @@
-# The Witcher - Vai na Web
+# The Witcher
 
 ![Badge](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
 
@@ -12,7 +12,7 @@ The Witcher 3: Wild Hunt é um jogo eletrônico de RPG de ação em mundo aberto
 
 Atividade passada pelo Vai na Web para práticar HTML5, CSS3 e principalmente Flexbox. Não está responsivo para dispositivos mobiles.
 
-### <a href="https://luizfelipe9627-the-witcher-vnw.netlify.app">Acesse o site</a>
+### <a href="https://luizfelipe9627-the-witcher.netlify.app">Acesse o site</a>
 
 ## 💻 Tecnologias utilizadas
 
