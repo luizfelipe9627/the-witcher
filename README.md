@@ -2,7 +2,7 @@
 
 ![Badge](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
 
-<img src="https://github.com/luizfelipe9627/the-witcher-vnw/blob/main/src/assets/img/apresentacao.gif" alt="Apresentação do The Witcher">
+<img src="https://github.com/luizfelipe9627/the-witcher/blob/main/src/assets/img/apresentacao.gif" alt="Apresentação do The Witcher">
 
 ## 📄 Descrição
 
